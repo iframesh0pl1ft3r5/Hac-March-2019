@@ -1,0 +1,172 @@
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\HelloWorld.png
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\DataFileStorage.exe.config
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\DataFileStorage.exe
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\DataFileStorage.pdb
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.Data.Edm.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.Data.OData.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\System.Spatial.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.Data.Edm.xml
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.Data.OData.xml
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.Data.Services.Client.xml
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\System.Spatial.xml
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\de\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\es\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\fr\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\it\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ja\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ko\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\ru\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\obj\Debug\DataFileStorage.csprojAssemblyReference.cache
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\obj\Debug\DataFileStorage.csproj.CoreCompileInputs.cache
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\obj\Debug\DataFileStorage.csproj.CopyComplete
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\obj\Debug\DataFileStorage.exe
+E:\Users\Joshu\Downloads\azure-storage-net-master\azure-storage-net-master\Samples\GettingStarted\VisualStudioQuickStarts\DataFileStorage\obj\Debug\DataFileStorage.pdb
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\DataFileStorage.exe.config
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\DataFileStorage.exe
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\DataFileStorage.pdb
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\System.Spatial.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\System.Spatial.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\obj\Debug\DataFileStorage.csprojAssemblyReference.cache
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\obj\Debug\DataFileStorage.csproj.CoreCompileInputs.cache
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\obj\Debug\DataFileStorage.csproj.CopyComplete
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\obj\Debug\DataFileStorage.exe
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac\DataFileStorage\obj\Debug\DataFileStorage.pdb
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\DataFileStorage.exe.config
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\DataFileStorage.exe
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\DataFileStorage.pdb
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\System.Spatial.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\System.Spatial.xml
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\obj\Debug\DataFileStorage.csprojAssemblyReference.cache
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\obj\Debug\DataFileStorage.csproj.CoreCompileInputs.cache
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\obj\Debug\DataFileStorage.csproj.CopyComplete
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\obj\Debug\DataFileStorage.exe
+C:\Users\Joshu\OneDrive - Personal\OneDrive\documents\Visual Studio 2017\Projects\Create Account hac Manchester March\DataFileStorage\obj\Debug\DataFileStorage.pdb

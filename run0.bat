@@ -1,3 +1,3 @@
 @echo off
 ECHO Running script
-py Z:\Ben\LongHelloWorldEmail1.py
+py [LongHelloWorldEmail1.py]

@@ -52,10 +52,9 @@ def ETPHONEHOME():
 def main2():
     
     # Set sender and receiver details
-    sender = 'xyziframe@gmail.com'
-    receiver = 'example234134@gmail.com'
-    #receiver = 'JoshuaG1000@outlook.com'
-    password = 'thisexample'
+    sender = 'sender@example.com'
+    receiver = 'receiver@example.com'
+    password = 'password'
     
 
     # Set up localhost

@@ -1,7 +1,7 @@
-Username - qwertyuiop
-Password - qwertyuiop
-Age - qwertyuio
-Phone - 2727272727272
-Address - 234568
-Work Address - 456789
-Email - email@email.com
+Username - undefined
+Password - undefined
+Age - undefined
+Phone - 000000000000
+Address - 000 undefined null  
+Work Address - 000 undefined null
+Email - undefined@domain.tld
